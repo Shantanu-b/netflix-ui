@@ -1,0 +1,7 @@
+git commands 
+
+git config --list
+Set your username: 
+git config --global user.name "shantanu buddekar"
+Set your email address: 
+git config --global user.email "buddekar.shantanu@gmail.com"
